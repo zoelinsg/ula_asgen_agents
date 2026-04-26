@@ -1,0 +1,15 @@
+.env
+.venv/
+.vscode/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.cache/
+.pytest_cache/
+.DS_Store
+data/
+bq_ready/
+*.parquet
+*.csv
+*.log
