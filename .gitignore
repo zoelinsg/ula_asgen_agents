@@ -13,3 +13,4 @@ bq_ready/
 *.parquet
 *.csv
 *.log
+.benchmarks
