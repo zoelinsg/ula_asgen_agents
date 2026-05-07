@@ -173,7 +173,6 @@ If the ADK Dev UI returns 429 RESOURCE_EXHAUSTED, wait a few minutes and retry.
 This usually means the Vertex AI / Gemini quota or rate limit was temporarily reached.
 
 ## Demo
+[▶ Watch Demo on YouTube](https://youtu.be/IzfEXGgclxo)
 
-[▶ Watch Demo on YouTube](https://www.youtube.com/watch?v=wC11d3a3whs)
-
-[![Demo Video](https://img.youtube.com/vi/wC11d3a3whs/hqdefault.jpg)](https://www.youtube.com/watch?v=wC11d3a3whs)
+[![Demo Video](https://img.youtube.com/vi/IzfEXGgclxo/0.jpg)](https://youtu.be/IzfEXGgclxo)
