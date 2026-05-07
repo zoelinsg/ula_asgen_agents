@@ -174,6 +174,6 @@ This usually means the Vertex AI / Gemini quota or rate limit was temporarily re
 
 ## Demo
 
-[▶ Watch Demo on YouTube](https://www.youtube.com/watch?v=wc11d3a3whs)
+[▶ Watch Demo on YouTube](https://www.youtube.com/watch?v=wC11d3a3whs)
 
-[![Demo Video](https://img.youtube.com/vi/watch?v=wc11d3a3whs/0.jpg)](https://www.youtube.com/watch?v=wc11d3a3whs)
+[![Demo Video](https://img.youtube.com/vi/wC11d3a3whs/hqdefault.jpg)](https://www.youtube.com/watch?v=wC11d3a3whs)
