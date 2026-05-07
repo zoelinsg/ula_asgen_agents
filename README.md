@@ -171,3 +171,11 @@ BigQuery tools are read-only and only allow SELECT or WITH queries.
 
 If the ADK Dev UI returns 429 RESOURCE_EXHAUSTED, wait a few minutes and retry.
 This usually means the Vertex AI / Gemini quota or rate limit was temporarily reached.
+
+## Demo
+
+Watch the demo video on YouTube:
+
+[Ula AI Workspace Assistant Demo](https://youtu.be/wc11d3a3whs)
+
+[![Demo Video](https://img.youtube.com/vi/wC11d3a3whs/0.jpg)](https://youtu.be/wc11d3a3whs)
